@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 <img width="1672" height="941" alt="91012" src="https://github.com/user-attachments/assets/c69eddfb-63b5-4530-ab52-ea2f25d011e1" />
 
+=======
+![alt text](91012.png)
+>>>>>>> 80d70f6 (success)
 
 # 🧠 Demand Forecasting: The Brain of the Supply Chain 🚚📦
 
